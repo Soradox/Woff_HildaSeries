@@ -4,4 +4,4 @@ Hilda is one of my favorite animated series and thought it would be fun to do a 
 
 You can find this at CodePen https://codepen.io/Soradox/pen/JxaeZX
 
-![](woff.gif)
+![](/img/woff.gif)
